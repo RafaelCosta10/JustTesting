@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaJogos.Apresentacao", "ListaJogos\ListaJogos.Apresentacao.csproj", "{826DDD08-6F73-4DE4-A433-E22123DBB00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaJogos.API", "ListaJogos.API\ListaJogos.API.csproj", "{D3F326C3-7487-416B-AF47-C5E76C7BB3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{826DDD08-6F73-4DE4-A433-E22123DBB00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826DDD08-6F73-4DE4-A433-E22123DBB00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826DDD08-6F73-4DE4-A433-E22123DBB00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826DDD08-6F73-4DE4-A433-E22123DBB00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F326C3-7487-416B-AF47-C5E76C7BB3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F326C3-7487-416B-AF47-C5E76C7BB3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F326C3-7487-416B-AF47-C5E76C7BB3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F326C3-7487-416B-AF47-C5E76C7BB3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5574D35-E21C-448B-A522-B9626CAE1F9F}
+	EndGlobalSection
+EndGlobal
